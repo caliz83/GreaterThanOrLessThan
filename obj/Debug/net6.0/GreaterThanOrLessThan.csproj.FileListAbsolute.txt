@@ -1,0 +1,15 @@
+C:\Users\lizg1\GitGreatThanLessThan\GreaterThanOrLessThan\bin\Debug\net6.0\GreaterThanOrLessThan.exe
+C:\Users\lizg1\GitGreatThanLessThan\GreaterThanOrLessThan\bin\Debug\net6.0\GreaterThanOrLessThan.deps.json
+C:\Users\lizg1\GitGreatThanLessThan\GreaterThanOrLessThan\bin\Debug\net6.0\GreaterThanOrLessThan.runtimeconfig.json
+C:\Users\lizg1\GitGreatThanLessThan\GreaterThanOrLessThan\bin\Debug\net6.0\GreaterThanOrLessThan.dll
+C:\Users\lizg1\GitGreatThanLessThan\GreaterThanOrLessThan\bin\Debug\net6.0\GreaterThanOrLessThan.pdb
+C:\Users\lizg1\GitGreatThanLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\GreaterThanOrLessThan.csproj.AssemblyReference.cache
+C:\Users\lizg1\GitGreatThanLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\GreaterThanOrLessThan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizg1\GitGreatThanLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\GreaterThanOrLessThan.AssemblyInfoInputs.cache
+C:\Users\lizg1\GitGreatThanLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\GreaterThanOrLessThan.AssemblyInfo.cs
+C:\Users\lizg1\GitGreatThanLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\GreaterThanOrLessThan.csproj.CoreCompileInputs.cache
+C:\Users\lizg1\GitGreatThanLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\GreaterThanOrLessThan.dll
+C:\Users\lizg1\GitGreatThanLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\refint\GreaterThanOrLessThan.dll
+C:\Users\lizg1\GitGreatThanLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\GreaterThanOrLessThan.pdb
+C:\Users\lizg1\GitGreatThanLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\GreaterThanOrLessThan.genruntimeconfig.cache
+C:\Users\lizg1\GitGreatThanLessThan\GreaterThanOrLessThan\obj\Debug\net6.0\ref\GreaterThanOrLessThan.dll
