@@ -1,4 +1,7 @@
-﻿bool letsPlay = true;
+﻿
+//reviewed by: Valerie
+//Comment: runs great! Good job!
+bool letsPlay = true;
 
 while(letsPlay == true)
 {
