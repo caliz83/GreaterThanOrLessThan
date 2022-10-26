@@ -1,9 +1,4 @@
-﻿//Elizabeth Garcia
-//10/25/2022
-//GitHub Challenges
-//reviewed by: Valerie
-//Comment: runs great! Good job!
-bool letsPlay = true;
+﻿bool letsPlay = true;
 
 while(letsPlay == true)
 {
